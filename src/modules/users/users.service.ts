@@ -4,7 +4,7 @@ import { Repository } from 'typeorm';
 import { User } from './entities/user.entity';
 import { CreateUserDto } from './dto/create-user.dto';
 import { UpdateUserDto } from './dto/update-user.dto';
-import { AppError } from 'src/shared/Error/AppError';
+import { AppError } from '../../shared/Error/AppError';
 
 
 @Injectable()
