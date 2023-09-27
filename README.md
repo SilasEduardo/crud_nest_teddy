@@ -64,6 +64,11 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
+## ACESSO A DOCUMENT SWAGGER
+```
+
+$ with appp running go to /app
+```
 
 ## Support
 
