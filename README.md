@@ -45,6 +45,13 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+## INIT APP EXECUTE THE DOCKERs
+```
+##docker
+$ docker-compose up -d
+
+```
+
 ## Test
 
 ```bash
